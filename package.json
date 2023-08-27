@@ -1,6 +1,6 @@
 {
-  "name": "accountabstraction",
-  "version": "0.6.0",
+  "name": "@epoch-protocol/accountabstraction",
+  "version": "0.6.2",
   "description": "ERC-4337 Account Abstraction Implementation",
   "scripts": {
     "clean": "rm -rf cache artifacts typechain typechain-types",
